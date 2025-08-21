@@ -1,0 +1,9 @@
+# Gmail Agent
+SENDER_EMAIL=abc123@gmail.com
+SENDER_APP_PASSWORD=16 character password
+
+# WhatsApp Agent
+# Twilio WhatsApp credentials (for WhatsApp Agent)
+TWILIO_ACCOUNT_SID=**************************
+TWILIO_AUTH_TOKEN=************************
+TWILIO_WHATSAPP_NUMBER=whatsapp:+11111111111
