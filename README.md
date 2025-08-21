@@ -11,7 +11,8 @@ Features:
     Works seamlessly in Google Colab / local Python environment.
 
 🛠️ Tech Stack:
-    Python 3.10+
-    Twilio API (for WhatsApp)
-    SMTP (for Email)
+    -> Python 3.10+
+    -> Twilio API (for WhatsApp)
+    -> SMTP (for Email)
+
     dotenv for environment configuration
